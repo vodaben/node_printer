@@ -1,0 +1,19 @@
+{
+  "name": "chivas15yo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "image": "node index_im.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.12",
+    "ipp": "^2.0.1",
+    "mdns": "^2.4.0",
+    "stream-to-buffer": "^0.1.0"
+  }
+}
